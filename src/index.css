@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Interdisplay';
+  src: url('https://cdn.prod.website-files.com/69c1ad3748d574d4aed2b31a/69c1ae0372f7262b6fe133eb_InterDisplay-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Interdisplay';
+  src: url('https://cdn.prod.website-files.com/69c1ad3748d574d4aed2b31a/69c1ae0320db4020961f530d_InterDisplay-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Utara';
+  src: url('https://cdn.prod.website-files.com/69c1ad3748d574d4aed2b31a/69cb8d071b56e638f44fbaab_Utara-Bold.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Chivo Mono';
+  src: url('https://fonts.gstatic.com/s/chivomono/v11/mFT0WbgRxKvF_Z5eQM09gx8D1Q.woff2') format('woff2');
+  font-weight: 300 700;
+  font-style: normal;
+}
+
+@layer base {
+  * {
+    box-sizing: border-box;
+  }
+  body {
+    background-color: rgb(12 10 9);
+    color: rgb(156 163 175);
+    font-feature-settings: 'rlig' 1, 'calt' 1;
+  }
+}
