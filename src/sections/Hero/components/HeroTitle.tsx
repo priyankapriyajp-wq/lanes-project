@@ -28,7 +28,7 @@ export const HeroTitle = () => {
 
       <div className="text-white box-border caret-transparent max-w-[300px] min-h-[auto] min-w-[auto] outline-[3px] pointer-events-none text-center md:max-w-[400px]">
         <div className="text-2xl box-border caret-transparent tracking-[-0.24px] leading-[31.2px] outline-[3px] md:text-[32px] md:tracking-[-0.32px] md:leading-[41.6px]">
-          We're Lanes® — a creative studio based in Gotham.
+          We're Reelzongo® — a creative reel makers.
         </div>
       </div>
 
