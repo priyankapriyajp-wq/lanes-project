@@ -148,8 +148,8 @@ const ROW_TWO_ITEMS = (
     <MediaCard
       containerVariant="rounded-t-[40px] md:rounded-t-[80px]"
       videoVariant=""
-      mp4Src="https://res.cloudinary.com/dzxvu5ceo/video/upload/f_auto,q_auto,w_400/v1779552503/video3_hnkqwf.mp4"
-      webmSrc="https://res.cloudinary.com/dzxvu5ceo/video/upload/f_auto,q_auto,w_400/v1779552503/video3_hnkqwf.mp4"
+      mp4Src="https://res.cloudinary.com/dzxvu5ceo/video/upload/v1779552502/video8_bwt41d.mp4"
+      webmSrc="https://res.cloudinary.com/dzxvu5ceo/video/upload/v1779552502/video8_bwt41d.mp4"
     />
     <div className="bg-[url('https://res.cloudinary.com/dzxvu5ceo/image/upload/f_auto,q_auto,w_200/v1779552677/house_rlhpqc.png')] bg-no-repeat bg-cover shrink-0 h-[160px] w-[110px] md:h-[280px] md:w-[180px] overflow-hidden bg-center rounded-b-[40px] md:rounded-b-[80px]" />
   </>

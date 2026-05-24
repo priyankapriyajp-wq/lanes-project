@@ -18,10 +18,10 @@ export const Hero = () => {
         <HeroMediaGrid />
 
         {/* Side fade overlay — matches bg color #0B0D3A */}
-        <div className="absolute bg-[linear-gradient(90deg,#0B0D3A,rgba(11,13,58,0)_8%,rgba(11,13,58,0)_92%,#0B0D3A)] pointer-events-none z-[2] inset-0"></div>
+        {/* <div className="absolute bg-[linear-gradient(90deg,#0B0D3A,rgba(11,13,58,0)_8%,rgba(11,13,58,0)_92%,#0B0D3A)] pointer-events-none z-[2] inset-0"></div> */}
 
         {/* Top + bottom fade */}
-        <div className="absolute bg-[linear-gradient(180deg,#0B0D3A_0%,rgba(11,13,58,0)_15%,rgba(11,13,58,0)_80%,#0B0D3A_100%)] pointer-events-none z-[2] inset-0"></div>
+        {/* <div className="absolute bg-[linear-gradient(180deg,#0B0D3A_0%,rgba(11,13,58,0)_15%,rgba(11,13,58,0)_80%,#0B0D3A_100%)] pointer-events-none z-[2] inset-0"></div> */}
 
         {/* Scroll indicator */}
         <div className="absolute flex items-center h-[38px] justify-center z-[3] bottom-4 left-0 right-0 md:bottom-8">
