@@ -4,11 +4,11 @@ import { Navbar } from "@/sections/Navbar";
 
 const slides = [
   {
-    src: "https://images.unsplash.com/photo-1519741497674-611481863552?w=1600",
+    src: "https://kbstudio.in/wp-content/uploads/2025/05/4-2-1-1.webp",
     sub: "Outdoor ceremonies under open skies",
   },
   {
-    src: "https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=1600",
+    src: "https://static.wixstatic.com/media/74e6ee_aee96b69577f44bb8942ef3ddadc66fe~mv2.jpg/v1/fill/w_568,h_378,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/74e6ee_aee96b69577f44bb8942ef3ddadc66fe~mv2.jpg",
     sub: "Every detail, perfectly captured",
   },
   {
