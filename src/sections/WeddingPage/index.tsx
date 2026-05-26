@@ -1,0 +1,1 @@
+export { WeddingPage } from "./components/WeddingPage";

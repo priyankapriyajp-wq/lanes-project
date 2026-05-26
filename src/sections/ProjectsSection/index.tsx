@@ -3,12 +3,13 @@ import { ProjectCard } from "@/sections/ProjectsSection/components/ProjectCard";
 
 const projects = [
   {
-    href: "/projects/lunarr",
+    href: "/projects/wedding",
     imageSrc:
-      "https://c.animaapp.com/mpa3ncljorJ2I2/assets/69dfd651ea45c5b1d9a99739_project-img-01.avif",
+      "https://res.cloudinary.com/dzxvu5ceo/image/upload/v1779726883/IMG_9255_1_1_smr0k9.jpg",
     logoSrc:
       "https://c.animaapp.com/mpa3ncljorJ2I2/assets/69c1c97acd725141e70c8f57_project-logo-05.svg",
-    title: "Lunar+",
+     
+    title: "Wedding",
   },
   {
     href: "/projects/clonify",
