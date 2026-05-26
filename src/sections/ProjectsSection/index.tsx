@@ -3,7 +3,7 @@ import { ProjectCard } from "@/sections/ProjectsSection/components/ProjectCard";
 
 const projects = [
   {
-    href: "/projects/Wedding",
+    href: "/projects/wedding",
     imageSrc:
       "https://res.cloudinary.com/dzxvu5ceo/image/upload/v1779726883/IMG_9255_1_1_smr0k9.jpg",
     logoSrc:
